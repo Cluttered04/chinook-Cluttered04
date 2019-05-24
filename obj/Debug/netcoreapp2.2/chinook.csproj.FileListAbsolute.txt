@@ -1,0 +1,11 @@
+C:\Users\Newforce\workspace\chinook\bin\Debug\netcoreapp2.2\chinook.deps.json
+C:\Users\Newforce\workspace\chinook\bin\Debug\netcoreapp2.2\chinook.runtimeconfig.json
+C:\Users\Newforce\workspace\chinook\bin\Debug\netcoreapp2.2\chinook.runtimeconfig.dev.json
+C:\Users\Newforce\workspace\chinook\bin\Debug\netcoreapp2.2\chinook.dll
+C:\Users\Newforce\workspace\chinook\bin\Debug\netcoreapp2.2\chinook.pdb
+C:\Users\Newforce\workspace\chinook\obj\Debug\netcoreapp2.2\chinook.csprojAssemblyReference.cache
+C:\Users\Newforce\workspace\chinook\obj\Debug\netcoreapp2.2\chinook.csproj.CoreCompileInputs.cache
+C:\Users\Newforce\workspace\chinook\obj\Debug\netcoreapp2.2\chinook.AssemblyInfoInputs.cache
+C:\Users\Newforce\workspace\chinook\obj\Debug\netcoreapp2.2\chinook.AssemblyInfo.cs
+C:\Users\Newforce\workspace\chinook\obj\Debug\netcoreapp2.2\chinook.dll
+C:\Users\Newforce\workspace\chinook\obj\Debug\netcoreapp2.2\chinook.pdb
